@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;javproj.jfrl.java&apos; to &apos;jfr1.java&apos;&#x0D;&#x0A;- Original project: &apos;javproj&apos;&#x0D;&#x0A;- Original element: &apos;javproj.jfrl.java&apos;&#x0D;&#x0A;- Renamed element: &apos;javproj.jfr1.java&apos;" description="Rename compilation unit &apos;jfrl.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;javproj{jfrl.java" name="jfr1.java" references="false" stamp="1540222012055" version="1.0"/>
+</session>
