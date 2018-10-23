@@ -152,51 +152,7 @@ private final int HISTORY_SIZE = 20;
                 jButton1ActionPerformed(evt);
             }
         });
-      /*  jPanel2.setBackground(new java.awt.Color(255, 255, 255));
-        jPanel2.setName("jPanel2"); // NOI18N
-        jLabel4.setFont(new java.awt.Font("Times New Roman", 1, 12));
-        jLabel4.setText("Product Version : Image Processor 1.0");
-        jLabel4.setName("jLabel4"); // NOI18N
-        jLabel5.setFont(new java.awt.Font("Times New Roman", 1, 12));
-        jLabel5.setText("License Type : Free");
-        jLabel5.setName("jLabel5"); // NOI18N
-        jLabel6.setFont(new java.awt.Font("Times New Roman", 1, 14));
-        jLabel6.setText("Image Procssor");
-        jLabel6.setName("jLabel6"); // NOI18N
-        jLabel7.setFont(new java.awt.Font("Times New Roman", 1, 12));
-        jLabel7.setText("Product ID : IP 1.0");
-        jLabel7.setName("jLabel7"); // NOI18N
-        javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
-        jPanel2.setLayout(jPanel2Layout);
-        jPanel2Layout.setHorizontalGroup(
-            jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel2Layout.createSequentialGroup()
-.addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel2Layout.createSequentialGroup()
-                        .addContainerGap()
-                        .addComponent(jLabel4))
-                    .addGroup(jPanel2Layout.createSequentialGroup()
-                        .addGap(61, 61, 61)
-                        .addComponent(jLabel6))
-                    .addGroup(jPanel2Layout.createSequentialGroup()
-                        .addContainerGap()
-                        .addComponent(jLabel7))
-                    .addGroup(jPanel2Layout.createSequentialGroup()
-                        .addContainerGap()
-                        .addComponent(jLabel5)))
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)));
-        jPanel2Layout.setVerticalGroup(
-            jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel2Layout.createSequentialGroup()
-                .addContainerGap()
-                .addComponent(jLabel6)
-                .addGap(29, 29, 29)
-                .addComponent(jLabel4)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jLabel7)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jLabel5)
-                .addContainerGap(54, Short.MAX_VALUE)));*/
+     
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
         jPanel1Layout.setHorizontalGroup(
@@ -1013,7 +969,7 @@ jMenuItem4.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyE
         jScrollPane30.setName("jScrollPane30"); // NOI18N
         jTextArea30.setColumns(20);
         jTextArea30.setRows(5);
-        jTextArea30.setText("It is a desktop based application.This project aims at creating various\neffects for processing an image of any format such as .jpg, .gif etc. \nOur objective is to give a clear outlook about the various operations \nor effects that can give to an image to change its original look. We \nselect this topic as our project by acquiring motivations from various \nexisting software’s such as Windows Picture Management likewise.We use \njava net beans as a supporting software while commencing this project.The pixel grabber function in java helps\nto grab each image into its pixel level.");
+        jTextArea30.setText("It is a desktop based application.This project aims at creating various\neffects for processing an image of any format such as .jpg, .gif etc. \nOur objective is to give a clear outlook about the various operations \nor effects that can give to an image to change its original look. We \nselect this topic as our project by acquiring motivations from various \nexisting softwareÂ’s such as Windows Picture Management likewise.We use \njava net beans as a supporting software while commencing this project.The pixel grabber function in java helps\nto grab each image into its pixel level.");
         jTextArea30.setName("jTextArea30"); // NOI18N
         jScrollPane30.setViewportView(jTextArea30);
         jLabel43.setBackground(new java.awt.Color(255, 255, 51));
